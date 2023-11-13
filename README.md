@@ -9,6 +9,7 @@ Return `true` if you can reach cell `(fx, fy)` after exactly `t` seconds, or `fa
 
 A cell's adjacent cells are the 8 cells around it that share at least one corner with it. You can visit the same cell several times.
 
+[Detailed Explanation](https://docs.google.com/document/d/1cJBYW8p4WtzAwdN4-J160W9qU9pAMgfSjkxK60vzPWg/edit?usp=sharing)
 
 ## Example 1:
 
